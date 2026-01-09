@@ -15,3 +15,8 @@ def update_bounds():
     max_x = max(max_x, x)
     min_y = min(min_y, y)
     max_y = max(max_y, y)
+
+
+    max_x = max(max_x, x)
+    min_y = min(min_y, y)
+    max_y = max(max_y, y)   
